@@ -1,4 +1,4 @@
-# 量化分析回测常用方法库，只封装基本方法，不封其他量化库的api，防止过度封装
+# 量化分析回测常用方法库，只封装基本方法，不封其他量化库的api，防止过度封装。。。
 import pandas as pd
 import pandas_ta as ta
 import plotly.graph_objects as go
